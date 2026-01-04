@@ -1,3 +1,4 @@
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=chocolanii&label=　　cacao+beans　　&color=7E5234&style=plastic" alt="chocolanii" />
 <div align="center"> <img width="290" height="290" alt="Untitled309_20250806164807" src="https://github.com/user-attachments/assets/1b394331-97d3-4a60-a059-9adc87fdb0ad" />
  
 <div align="center"> <img width="100" height="100" alt="Untitled396_20260104065024" src="https://github.com/user-attachments/assets/f3d2e436-9742-408e-9ddf-68a8598ac250" /><img width="100" height="100" alt="Untitled396_20260104065024" src="https://github.com/user-attachments/assets/f3d2e436-9742-408e-9ddf-68a8598ac250" /><img width="100" height="100" alt="Untitled396_20260104065024" src="https://github.com/user-attachments/assets/f3d2e436-9742-408e-9ddf-68a8598ac250" />
