@@ -1,12 +1,3 @@
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=chocolanii&label=　　cacao+beans　　&color=7E5234&style=plastic" alt="chocolanii" />
-<div align="center"> <img width="290" height="290" alt="Untitled309_20250806164807" src="https://github.com/user-attachments/assets/1b394331-97d3-4a60-a059-9adc87fdb0ad" />
- 
-<div align="center"> <img width="100" height="100" alt="Untitled396_20260104065024" src="https://github.com/user-attachments/assets/f3d2e436-9742-408e-9ddf-68a8598ac250" /><img width="100" height="100" alt="Untitled396_20260104065024" src="https://github.com/user-attachments/assets/f3d2e436-9742-408e-9ddf-68a8598ac250" /><img width="100" height="100" alt="Untitled396_20260104065024" src="https://github.com/user-attachments/assets/f3d2e436-9742-408e-9ddf-68a8598ac250" />
-
- 
-　　<div align="center">[<img width="200" height="200" alt="Untitled397_20260104073911" src="https://github.com/user-attachments/assets/f6306c7a-a9bf-4902-9dae-2ee5823bd8bd" />](https://chocolanii.atabook.org/)　<img width="100" height="100" alt="Untitled396_20260104074741" src="https://github.com/user-attachments/assets/e3393cd1-e54d-4a9b-902c-daae5d9b8238" />
-　[<img width="200" height="200" alt="Untitled397_20260104075311" src="https://github.com/user-attachments/assets/4e70bab6-e4f1-4073-8406-1b81ae2cd977" />](https://chocolanii.carrd.co/)
-  
-<div align="center"> <img width="90" height="90" alt="Untitled284_20250711193810" src="https://github.com/user-attachments/assets/86bc6589-54c6-43db-a391-262b926448c2" />
-
-
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=chocolanii&label=　　customers　　&color=B06688&style=plastic" alt="chocolanii" />
+<div align="center">       　　
+<div align="center"><img width="498" height="279" alt="986368BD-5080-4139-89E6-7284045ADEC5" src="https://github.com/user-attachments/assets/e9af6f65-f9e6-4fb2-ae93-b74c24f9bc57" />
